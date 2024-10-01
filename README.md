@@ -1,0 +1,1 @@
+YOLOv3 (You Only Look Once, Version 3) is a real-time object detection algorithm that identifies specific objects in videos, live feeds or images. The YOLO machine learning algorithm uses features learned by a Deep Convolutional Neural Network to detect objects located in an image.
